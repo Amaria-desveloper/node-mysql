@@ -4,6 +4,7 @@
   "description": "example backend with mysql",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon ./backend/index.js",
     "test": "test"
   },
   "repository": {
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Amaria-desveloper/node-mysql/issues"
   },
-  "homepage": "https://github.com/Amaria-desveloper/node-mysql#readme"
+  "homepage": "https://github.com/Amaria-desveloper/node-mysql#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
