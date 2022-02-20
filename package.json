@@ -1,0 +1,19 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "example backend with mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Amaria-desveloper/node-mysql.git"
+  },
+  "author": "Chudnitsova Maria (amariaDesveloper)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amaria-desveloper/node-mysql/issues"
+  },
+  "homepage": "https://github.com/Amaria-desveloper/node-mysql#readme"
+}
